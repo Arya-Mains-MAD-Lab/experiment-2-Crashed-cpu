@@ -29,10 +29,10 @@ To understand **widget navigation** and create a **login module** using Flutter.
 The application validates login credentials.  
 
 - **Login Screen**: Displays username and password fields with a login button.  
-![Login Screen](./login_output.png)  
+<img src="./login_output.png" alt="Login Screen" width="300"/>
 
 - **Successful Login**: On correct credentials, navigates to a new screen displaying **"Login Successful"**.  
-![Successful Login](./success_output.png)  
+<img src="./success_output.png" alt="Successful Login" width="300"/>
 
 
 ---
